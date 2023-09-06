@@ -2,7 +2,7 @@
 This project presents a robust machine learning model developed using the scikit-learn library, designed to provide personalized movie recommendations to users based on their historical preferences.
 Project Title: Movie Recommendation System with Content-Based Filtering using scikit-learn
 
-Project Description:
+##Project Description:
 
 This project presents a robust machine learning model developed using the scikit-learn library, designed to provide personalized movie recommendations to users based on their historical preferences. Leveraging the powerful technique of content-based filtering, this recommendation system employs advanced algorithms to analyze and understand the inherent characteristics of movies and match them to the individual tastes and interests of users.
 
